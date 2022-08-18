@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Chilanka&display=swap');
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+html {
+	font-size: 16px;
+	scroll-behavior: smooth;
+}
+
+body {
+	font-size: 0px;
+	font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+header{
+    color: rgb(255, 255, 255);
+    width: 100%;
+}   
+
+#Estructura{
+    margin-top: 5%;
+    color: black;
+}
+
+#Titulo{
+    font-size: 8rem;
+    color: black;
+}
+
+nav{
+    font-size: 1.5rem;
+    margin-bottom: 0%;
+    margin-left: 5%;
+    color: rgb(255, 255, 255);
+}
+
+nav{
+    font-size: 2rem; 
+}
+
+#nav2{
+    font-size: 1.5rem;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: rgb(224, 58, 58);
+}
+
+form{
+    font-size: 2rem;
+    padding: 10px 60px 60px 60px;
+}
+
+footer{
+    text-align: center;
+    color: #fff;
+    float: right;
+    margin-right: 17%;
+    font-size:  1rem ;
+    padding: 40px;
+}  
+
+#emailHelp{
+    color: black;
+}
+
